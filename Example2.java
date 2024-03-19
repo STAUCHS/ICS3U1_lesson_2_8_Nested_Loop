@@ -1,4 +1,4 @@
-class Program1 extends ConsoleProgram {
+class Example2 extends ConsoleProgram {
 
   /**
   * Description
@@ -6,8 +6,6 @@ class Program1 extends ConsoleProgram {
   */
   
   public void run() {
-    // your code goes here
-    
     
   }
 }
